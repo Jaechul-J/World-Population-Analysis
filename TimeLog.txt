@@ -10,4 +10,10 @@
 \pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
 \cf0 2/19/2022 - Added GDP dataset\
 2/20/2022 - Munzner 9 Reading, \
+2/21/2022 - Munzner 10 Reading, Imported continents data. \
+2/23/2022 - Lab Journal Questions 4, R4DS 17-21 \
+2/27/2022 - Categorization of country by continents. \
+2/28/2022 - Munzner 12 Reading, R Shiny app update on visualization\
+3/2/2022 - Lab Journal Questions5, R4DS22-25 \
+3/6/2022 - Munzner 13 Reading, \
 }
