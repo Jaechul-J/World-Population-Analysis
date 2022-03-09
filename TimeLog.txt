@@ -16,4 +16,5 @@
 2/28/2022 - Munzner 12 Reading, R Shiny app update on visualization\
 3/2/2022 - Lab Journal Questions5, R4DS22-25 \
 3/6/2022 - Munzner 13 Reading, \
+3/7/2022 - Munzner 14 Reading, Finalized visual representation \
 }
