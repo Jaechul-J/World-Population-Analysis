@@ -1,3 +1,3 @@
 # CSC-324
 Class project
-Check master branch for updates. 
+PLEASE GO TO master branch for any updates. 
