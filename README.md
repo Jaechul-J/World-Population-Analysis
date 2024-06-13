@@ -1,3 +1,3 @@
-# CSC-324
-Class project
-PLEASE GO TO master branch for any updates. 
+# World Population Analysis
+
+PLEASE GO TO Master branch for updates.
